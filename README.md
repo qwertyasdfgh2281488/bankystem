@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 from abc import ABC, abstractmethod
 
-passwords = {
+paslkjhgcswords = {
     "admin": "123"
 }
 
